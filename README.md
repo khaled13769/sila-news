@@ -1,1 +1,1 @@
-# sila-newss
+# sila-news
